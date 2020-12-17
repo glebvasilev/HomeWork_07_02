@@ -1,6 +1,10 @@
 package com.company;
 
 class Cat {
+    /*
+     *  Class serves for calculating cats
+     */
+
     protected String name;
     protected int age;
     static int count;
